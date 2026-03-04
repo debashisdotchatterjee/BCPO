@@ -1,4 +1,4 @@
-# BCPO-lite Offline RL Validation (Auto-generated)
+# BCPO-lite Offline RL Validation 
 
 This zip contains outputs from a *synthetic* offline RL benchmark (tabular gridworld).
 In the environment that generated this zip, Gym/Gymnasium/MuJoCo are not installed, so D4RL tasks cannot be run here.
